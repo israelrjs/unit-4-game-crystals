@@ -1,0 +1,28 @@
+
+.crystal-image{
+    height: 200px;
+    width: 200px;
+    margin-left: 130px;
+    margin-right: 20px;
+    float: right;
+   
+}
+.alert-primary{
+    height: 120px;
+    width: 300px;
+    margin: 20px;
+    float: right;
+    
+}
+
+
+.jumbotron{
+    height: 400px;
+    text-align: center;
+    
+    background: rgba(200, 54, 54, 0.5);
+}
+#title{
+   color: red;
+   font-family: 'Bungee Inline', cursive;
+}
